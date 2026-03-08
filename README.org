@@ -11,14 +11,14 @@
 
 * About
 
-Parts App that provides each package separately just by setting target for only needed features.
+Parts App that provides each package separately just by setting target for only needed features. This is forked from GuidixX and will have spes/n fixes implemented.
 
 * Usage
 
 ** 1) Clone this repository to the specified directory
 
 #+BEGIN_SRC shell
-git clone https://github.com/GuidixX/packages_apps_XiaomiParts packages/apps/XiaomiParts
+git clone https://github.com/yograts-playground/packages_apps_XiaomiParts packages/apps/XiaomiParts
 #+END_SRC
 
 ** 2) Adapt the following commit for your device and build it as it is :)
